@@ -1,6 +1,6 @@
 # Proyecto Microservicios Retail Services
 
-## Compilacion
+## Compilación
 ```bash
 cd api-manager/
 mvn clean package
